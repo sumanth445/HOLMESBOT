@@ -1,6 +1,6 @@
 class _BotCommands:
     def __init__(self):
-        self.StartCommand = 'start'
+        self.StartCommand = 'atar'
         self.MirrorCommand = 'mir'
         self.UnzipMirrorCommand = 'unzip'
         self.TarMirrorCommand = 'tarmir'
@@ -15,7 +15,7 @@ class _BotCommands:
         self.RmSudoCommand = 'rmsudo'
         self.PingCommand = 'ping'
         self.RestartCommand = 'restart'
-        self.StatsCommand = 'stots'
+        self.StatsCommand = 'dnd'
         self.HelpCommand = 'help'
         self.LogCommand = 'log'
         self.CloneCommand = "clone"
